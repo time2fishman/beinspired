@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "is_admin": true
+    },
+    {
+      "id": 2,
+      "username": "joeschmow",
+      "is_admin": false
+    },
+    {
+      "id": 3,
+      "username": "rockstar",
+      "is_admin": false
+    }
+  ]
+  

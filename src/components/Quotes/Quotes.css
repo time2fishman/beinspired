@@ -1,0 +1,23 @@
+.quote {
+    margin: auto;
+}
+
+.go-back-button {
+  border-radius: 10px;
+  padding: 0.1em 0.5em 0.1em 0.5em;
+  background-color: #564e58;
+  color: white;
+  font-size: 16px;
+  white-space: nowrap;
+  margin: 15px;
+}
+
+.more-button {
+    border-radius: 10px;
+    padding: 0.1em 0.5em 0.1em 0.5em;
+    background-color: #564e58;
+    color: white;
+    font-size: 16px;
+    white-space: nowrap;  
+    margin: 15px;
+}

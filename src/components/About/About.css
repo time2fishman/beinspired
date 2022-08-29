@@ -1,0 +1,16 @@
+table, th, td {
+    align-content: center;
+    border: 1px solid;
+    text-align: center;
+    margin: auto;
+}
+
+td, th {
+    padding: 5px;
+}
+
+.statement {
+    font-family: "Sawarabi Gothic", Georgia;
+    font-size: 18px;
+    margin: 0 20px 60px 20px;
+}

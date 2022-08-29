@@ -1,0 +1,68 @@
+* {
+  font-family: "Sawarabi Gothic", Georgia;
+}
+
+.rdm-quote-btn {
+  border-radius: 10px;
+  padding: 0.5em 1em 0.5em 1em;
+  background-color: #564e58;
+  color: white;
+  font-size: 16px;
+  white-space: nowrap;
+  margin-bottom: 40px;
+}
+
+.contribute-heading {
+  text-align: left;
+  margin-left: 1em;
+  margin-bottom: 0px;
+}
+
+.new-quote-form {
+  text-align: left;
+  margin-left: 1em;
+}
+
+.add-text {
+  text-align: left;
+  margin-left: 1.1em;
+  margin-top: 0px;
+  color: #555555;
+}
+
+.new-quote-text-area {
+  width: 94%;
+  margin-top: 10px;
+}
+
+.new-author-text {
+  width: 94%;
+  margin-top: 10px;
+  /* margin-bottom: 10px; */
+}
+
+.form-btns {
+    text-align: right;     
+ }
+
+
+.new-quote-submit-btn {
+  border-radius: 10px;
+  padding: 0.1em 0.5em 0.1em 0.5em;
+  background-color: #564e58;
+  color: white;
+  font-size: 16px;
+  white-space: nowrap;
+  margin: 15px
+}
+
+.new-quote-clear-btn {
+  border-radius: 10px;
+  padding: 0.1em 0.5em 0.1em 0.5em;
+  background-color: #fefefe;
+  color: #564e58;
+  font-size: 16px;
+  white-space: nowrap;
+  border: 2px solid #564e58;
+}
+

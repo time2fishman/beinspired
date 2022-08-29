@@ -1,0 +1,17 @@
+.nav-ul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    text-decoration: none;
+    padding: .5em;
+    margin: 0px 0px 60px 0px;
+    font-family: "Sawarabi Gothic", Georgia;
+    font-size: 18px;
+    background-color: #904e55;
+}
+
+.nav-item {
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}

@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+
+.app-container {
+  text-align: center;
+  background-color: #f2efe9;
+  height: 100vh;
+  font-family: "Sawarabi Gothic", Georgia;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
