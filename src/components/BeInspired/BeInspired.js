@@ -1,10 +1,10 @@
-import "./Main.css";
+import "./BeInspired.css";
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
 import { useDispatch } from "react-redux";
 import { createQuote } from "../../actions/quotes";
 
-const Main = () => {
+const BeInspired = () => {
   const navigate = useNavigate();
   const dispatch = useDispatch();
 
@@ -91,4 +91,4 @@ const Main = () => {
   );
 };
 
-export default Main;
+export default BeInspired;

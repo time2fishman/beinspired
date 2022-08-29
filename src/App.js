@@ -4,7 +4,7 @@ import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import Search from "./components/Search/Search";
 import Footer from "./components/Footer/Footer";
-import Main from "./components/Main/Main";
+import BeInspired from "./components/BeInspired/BeInspired";
 import Logo from "./components/Logo/Logo";
 import CreateAccount from "./components/CreateAccount/CreateAccount";
 import Quotes from "./components/Quotes/Quotes";
@@ -31,7 +31,7 @@ const App = () => {
         <Route path="/" exact element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/search" element={<Search />} />
-        <Route path="/main" element={<Main />} />
+        <Route path="/beinspired" element={<BeInspired />} />
         <Route path="/createaccount" element={<CreateAccount />} />
         <Route path="/quotes" element={<Quotes />} />
       </Routes>

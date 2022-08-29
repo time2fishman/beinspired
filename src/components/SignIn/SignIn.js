@@ -24,7 +24,7 @@ const SignIn = () => {
       <Link to="/createaccount">Create New Account</Link>
       <br />
       <br />
-      <Link to="/main">Continue As Guest</Link>
+      <Link to="/beinspired">Continue As Guest</Link>
     </>
   );
 };

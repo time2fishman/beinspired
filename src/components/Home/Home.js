@@ -22,7 +22,7 @@ const Home = () => {
       <br />
       <Link to="/createaccount">Create an account</Link>
       <br /> */}
-      <Link to="/main">
+      <Link to="/beinspired">
         <button className="home_inspire-me-btn">Inspire Me</button>
       </Link>
     </main>

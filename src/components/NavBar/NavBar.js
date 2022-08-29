@@ -17,8 +17,8 @@ const NavBar = () => {
             </Link>
           </li>
           <li>
-            <Link className="nav-item" to="/search" style={{ textDecoration: 'none' }}>
-                Search
+            <Link className="nav-item" to="/beinspired" style={{ textDecoration: 'none' }}>
+                Be Inspired
             </Link>
           </li>
         </ul>

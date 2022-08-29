@@ -51,8 +51,8 @@ const Quotes = () => {
           <p id="pauthor"></p>
         </h4>
       </div>
-      <button className="go-back-button" onClick={() => navigate("/main")}>Go Back</button>
-      <button className="more-button" onClick={() => navigate("/quotes")}>More</button>
+      {/* <button className="go-back-button" onClick={() => navigate("/beinspired")}>Go Back</button> */}
+      <button className="find-another-btn" onClick={() => navigate("/quotes")}>Find Another</button>
     </main>
   );
 };

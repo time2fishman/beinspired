@@ -23,7 +23,7 @@ const CreateAccount = () => {
         Submit
       </button>
       <br />
-      <Link to="/main">Continue as guest</Link>
+      <Link to="/beinspired">Continue as guest</Link>
     </main>
   );
 };
