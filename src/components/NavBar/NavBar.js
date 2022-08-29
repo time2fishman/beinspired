@@ -7,24 +7,18 @@ const NavBar = () => {
       <nav>
         <ul className="nav-ul">
           <li>
-            <Link to="/" style={{ textDecoration: 'none' }}>
-              <a className="nav-item" href="/">
+            <Link className="nav-item" to="/" style={{ textDecoration: 'none' }}>
                 Home
-              </a>
             </Link>
           </li>
           <li>
-            <Link to="/about" style={{ textDecoration: 'none' }}>
-              <a className="nav-item" href="/about">
+            <Link className="nav-item" to="/about" style={{ textDecoration: 'none' }}>
                 About
-              </a>
             </Link>
           </li>
           <li>
-            <Link to="/search" style={{ textDecoration: 'none' }}>
-              <a className="nav-item" href="/search">
+            <Link className="nav-item" to="/search" style={{ textDecoration: 'none' }}>
                 Search
-              </a>
             </Link>
           </li>
         </ul>

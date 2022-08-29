@@ -5,13 +5,13 @@ const Quotes = () => {
   const navigate = useNavigate();
 
   async function randomQuote() {
-    let response = await fetch("http://localhost:8080/quotes");
+    let response = await fetch("https://be-inspired-project.herokuapp.com/quotes");
     let data = await response.json();
     return data;
   }
 
   async function lengthQuotes() {
-    let response = await fetch("http://localhost:8080/quotes");
+    let response = await fetch("https://be-inspired-project.herokuapp.com/quotes");
     let data = await response.json();
     return Object.entries(data).length;
   }
