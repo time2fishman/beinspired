@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Sawarabi Gothic
+- Font Author: Copyright 2016 The Sawarabi Gothic Project Authors.
+- Font Source: http://fonts.gstatic.com/s/sawarabigothic/v12/x3d4ckfVaqqa-BEj-I9mE65u3k3NBSk3E2YljQ.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
