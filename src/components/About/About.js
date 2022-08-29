@@ -17,7 +17,7 @@ const About = () => {
         <tbody>
           <tr>
             <td>Adam Martinez</td>
-            <td><a href="https://www.linkedin.com/in/adam-martinez/">LindkedIn</a></td>
+            <td><a href="https://www.linkedin.com/in/adam-martinez/">LinkedIn</a></td>
             <td>https://zenquotes.io/</td>
           </tr>
         </tbody>
