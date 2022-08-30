@@ -5,3 +5,17 @@
     text-align: center;
     font-weight: 600;
 }
+
+/* MEDIA QUERIES */
+
+@media (min-width: 768px) {
+    .logo {
+        font-size: 45px;
+    }
+}
+
+@media (min-width: 1366px) {
+    .logo {
+        font-size: 55px;
+    }
+}

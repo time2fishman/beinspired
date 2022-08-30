@@ -42,7 +42,8 @@
 }
 
 .form-btns {
-    text-align: right;     
+    text-align: right;
+    margin-right: 4%;     
  }
 
 
@@ -66,3 +67,91 @@
   border: 2px solid #564e58;
 }
 
+/* MEDIA QUERIES */
+
+@media (min-width: 768px) {
+  .be-inspired-heading {
+    font-size: 25px;
+    margin-bottom: 35px;
+  }
+
+  .rdm-quote-btn {
+    font-size: 18px;
+  }
+
+  .contribute-heading {
+    margin-left: 30px;
+    font-size: 22px;
+    padding-left: 5px;
+  }
+
+  .add-text {
+    font-size: 18px;
+    margin-left: 30px;
+    padding-left: 5px;
+  }
+
+  .new-quote-form {
+    font-size: 20px;
+    margin-left: 30px;
+    padding: 5px;
+  }
+
+  .new-quote-text-area, .new-author-text {
+    font-size: 16px;
+    width: 75%;
+    padding: 10px;
+  }
+
+  .form-btns {
+    margin-right: 23%;
+  }
+
+  .new-quote-clear-btn, .new-quote-submit-btn {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 1366px) {
+  .be-inspired-heading {
+    font-size: 30px;
+    margin-bottom: 45px;
+  }
+
+  .rdm-quote-btn {
+    font-size: 20px;
+    margin-bottom: 75px
+  }
+
+  .contribute-heading {
+    margin-left: 50px;
+    font-size: 27px;
+    padding-left: 35px;
+  }
+
+  .add-text {
+    font-size: 20px;
+    margin-left: 50px;
+    padding-left: 35px;
+  }
+
+  .new-quote-form {
+    font-size: 22px;
+    margin-left: 50px;
+    padding: 35px;
+  }
+
+  .new-quote-text-area, .new-author-text {
+    font-size: 18px;
+    width: 70%;
+    padding: 15px;
+  }
+
+  .form-btns {
+    margin-right: 28%;
+  }
+
+  .new-quote-clear-btn, .new-quote-submit-btn {
+    font-size: 20px;
+  }
+}

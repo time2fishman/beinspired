@@ -14,3 +14,29 @@ td, th {
     font-size: 18px;
     margin: 0 20px 60px 20px;
 }
+
+/* MEDIA QUERIES */
+
+@media (min-width: 768px) {
+    .statement {
+        font-size: 20px;
+        margin-left: 75px;
+        margin-right: 75px;
+    }
+    
+    table {
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 1366px) {
+    .statement {
+        margin-left: 150px;
+        margin-right: 150px;
+        font-size: 25px;
+    }
+
+    table {
+        font-size: 20px
+    }
+}

@@ -31,7 +31,7 @@ const BeInspired = () => {
 
   return (
     <main>
-      <h2>I'm ready for inspiration!</h2>
+      <h2 className="be-inspired-heading">I'm ready for inspiration!</h2>
       <button onClick={() => navigate("/quotes")} className="rdm-quote-btn">
         Generate Random Quote
       </button>

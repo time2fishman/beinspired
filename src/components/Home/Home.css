@@ -11,3 +11,19 @@
   font-size: 20px;
   white-space: nowrap;
 }
+
+/* MEDIA QUERIES */
+
+@media (min-width: 768px) {
+  .app-description {
+      font-size: 20px;
+      margin: 75px;
+  }
+}
+
+@media (min-width: 1366px) {
+  .app-description {
+      font-size: 25px;
+      margin: 150px;
+  }
+}
