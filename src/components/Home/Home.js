@@ -22,6 +22,11 @@ const Home = () => {
       <br />
       <Link to="/createaccount">Create an account</Link>
       <br /> */}
+      <p className="app-description">
+        Isn't it uplifting to hear a thoughtful quote? Well, now you can use
+        this auto generator to view inspirational quotes at random! Select the
+        button below to get started.
+      </p>
       <Link to="/beinspired">
         <button className="home_inspire-me-btn">Inspire Me</button>
       </Link>
